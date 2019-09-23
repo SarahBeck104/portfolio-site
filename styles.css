@@ -1,4 +1,5 @@
 
+
 * {
 	box-sizing: border-box;
   }
@@ -103,10 +104,13 @@
 }
 
   @media only screen and (min-width: 680px) {
-    
+    //play around with media queries to make the text not go down too thin during a portion of narrowing the screen
+
+
+    try to make the background color lighter! for accessibility
 
     .bio {
-        padding: 15% 20em 40px 20em;
+        padding: 40px 20em 40px 20em;
 
     }
 
